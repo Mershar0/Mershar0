@@ -9,15 +9,6 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic learner with a s
 - 📚 **Lifelong Learner**: I'm always eager to learn new things and stay updated with the latest trends in technology.
 - 🚀 **Project Builder**: I love working on projects that challenge me and help me grow as a developer.
 
-## Projects
-
-Here are some of the projects I've been working on:
-
-- **Project 1**: [Description and link]
-- **Project 2**: [Description and link]
-- **Project 3**: [Description and link]
-
-Feel free to check them out and give me your feedback!
 
 ## Let's Connect!
 
